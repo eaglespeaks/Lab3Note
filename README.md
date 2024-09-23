@@ -1,3 +1,17 @@
 # Lab3Note
-Joshua Isaac here
-This is my first edit of a ReadMe document
+# Number Row Characters
+
+! exclamation mark
+@ the at symbol
+# hash or pound
+$ dollar sign
+% percentage sign
+^ raise to power sign in mathematics
+& and sign
+* asterisk
+( open bracket 
+) close bracket
+_ underscore
++ plus sign
+
+[George Brown College Website](www.georgebrown.ca)
