@@ -20,11 +20,7 @@
 * [My GitHub Page](www.github.com/eaglespeaks)
 
 # :page_with_curl: Experiments
-* :gift_heart:
-* :school_satchel:
-* :maple_leaf:
-* :astonished:
-* :fearful:
-* :heart_eyes:
-* :stuck_out_tongue_winking_eye:
-* :alien:
+* :gift_heart: * :school_satchel:
+* :maple_leaf: * :astonished:
+* :fearful: * :heart_eyes:
+* :stuck_out_tongue_winking_eye: * :alien:
