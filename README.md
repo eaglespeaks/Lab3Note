@@ -12,6 +12,7 @@
 * [George Brown College Website](www.georgebrown.ca)
 * [My George Brown Website](https://f4395192.gblearn.com/)
 * [My GitHub Page](www.github.com/eaglespeaks)
+* [CLI commands](docs/cli.md)
 
 # :page_with_curl: Experiments
 * :gift_heart: * :school_satchel:
