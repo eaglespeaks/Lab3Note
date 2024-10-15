@@ -13,6 +13,7 @@
 * [My George Brown Website](https://f4395192.gblearn.com/)
 * [My GitHub Page](www.github.com/eaglespeaks)
 * [CLI commands](cli.md)
+* [Experiments](experiments.md)
 
 # :page_with_curl: Experiments
 * :gift_heart: * :school_satchel:
