@@ -1,28 +1,28 @@
-- Name: LeBron James  #string
-  Sport: Basketball   #string
+- Name: LeBron James  # string
+  Sport: Basketball   # string
   Team:
-    Name: Lakers      #string
-    City: Los Angeles #string
-  Position: Forward   #string
-  Age: 38             #number
-- Name: Lionel Messi  #string
-  Sport: Soccer       #string
+    Name: Lakers      # string
+    City: Los Angeles # string
+  Position: Forward   # string
+  Age: 38             # number
+- Name: Lionel Messi  # string
+  Sport: Soccer       # string
   Team:
-    Name: Inter Miami #string
-    City: Miami       #string
-  Position: Forward   #string
-  Age: 36             #number
-- Name: Serena Williams #string
-  Sport: Tennis         #string
+    Name: Inter Miami # string
+    City: Miami       # string
+  Position: Forward   # string
+  Age: 36             # number
+- Name: Serena Williams # string
+  Sport: Tennis         # string
   Team:
-    Name: N/A           #string
-    City: N/A           #string
-  Position: Player      #string
-  Age: 41               #number
-- Name: Tom Brady       #string
-  Sport: Football       #string
+    Name: N/A           # string
+    City: N/A           # string
+  Position: Player      # string
+  Age: 41               # number
+- Name: Tom Brady       # string
+  Sport: Football       # string
   Team:
-    Name: Buccaneers    #string
-    City: Tampa Bay     #string
-  Position: Quarterback #string
-  Age: 46               #number
+    Name: Buccaneers    # string
+    City: Tampa Bay     # string
+  Position: Quarterback # string
+  Age: 46               # number
